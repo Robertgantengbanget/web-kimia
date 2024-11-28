@@ -114,7 +114,7 @@
         <section id="pengantar" class="section">
             <h2>Pengantar</h2>
             <p>Kimia adalah ilmu yang mempelajari struktur, sifat, dan perubahan materi. Dari molekul air hingga reaksi nuklir, kimia adalah inti dari banyak fenomena alam.</p>
-            <img src="c:\Users\ASUS\Documents\laprak koding\Ad21XABuJmuHQuYHWozBnVFaIvvXaKYveh6tH8Pg.jpg" alt="Ilustrasi Molekul" style="width: 100%; margin-top: 1rem; border-radius: 8px;">
+            <img src="Ad21XABuJmuHQuYHWozBnVFaIvvXaKYveh6tH8Pg.jpg" alt="Ilustrasi Molekul" style="width: 100%; margin-top: 1rem; border-radius: 8px;">
         </section>
 
         <!-- Konsep Utama -->
@@ -123,19 +123,19 @@
             <div class="grid">
                 <!-- Card Atom -->
                 <div class="card">
-                    <img src="c:\xampp\htdocs\kimiadasarrobert\Class-11-Structure-of-an-Atom.jpg" alt="Struktur Atom">
+                    <img src="Class-11-Structure-of-an-Atom.jpg" alt="Struktur Atom">
                     <h3>Struktur Atom</h3>
                     <p>Atom adalah partikel terkecil dari suatu elemen yang masih memiliki sifat kimiawi. Komponen utamanya adalah proton, neutron, dan elektron.</p>
                 </div>
                 <!-- Card Molekul -->
                 <div class="card">
-                    <img src="c:\xampp\htdocs\kimiadasarrobert\molekul-air.jpg" alt="Molekul Air">
+                    <img src="molekul-air.jpg" alt="Molekul Air">
                     <h3>Molekul</h3>
                     <p>Molekul terbentuk dari kombinasi atom melalui ikatan kimia. Contoh umum adalah molekul air (H₂O) dan karbon dioksida (CO₂).</p>
                 </div>
                 <!-- Card Reaksi -->
                 <div class="card">
-                    <img src="c:\xampp\htdocs\kimiadasarrobert\reaksi kimia1.JPG" alt="Reaksi Kimia">
+                    <img src="reaksi kimia1.JPG" alt="Reaksi Kimia">
                     <h3>Reaksi Kimia</h3>
                     <p>Reaksi kimia adalah proses di mana zat-zat berubah menjadi zat baru. Contohnya adalah reaksi pembakaran dan reaksi redoks.</p>
                 </div>
@@ -151,7 +151,7 @@
                 <li><b>Elektrolisis:</b> Pisahkan air menjadi gas hidrogen dan oksigen menggunakan arus listrik.</li>
                 <li><b>Reaksi Endoterm dan Eksoterm:</b> Amati perubahan suhu selama reaksi.</li>
             </ul>
-            <img src="c:\xampp\htdocs\kimiadasarrobert\OIP.jpg" alt="Ilustrasi Eksperimen Kimia" style="width: 100%; margin-top: 1rem; border-radius: 8px;">
+            <img src="OIP.jpg" alt="Ilustrasi Eksperimen Kimia" style="width: 100%; margin-top: 1rem; border-radius: 8px;">
         </section>
 
         <!-- Penutup -->
